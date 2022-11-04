@@ -790,7 +790,7 @@
             is: available
         loan:
             is: available
-            limitation: "verkürzte Leihfrist (8 Tage)"
+            limitation: "verkürzte Leihfrist (7 Tage)"
         interloan:
             is: available
             limitation: "nur Kopie"
